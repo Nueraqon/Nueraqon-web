@@ -6,7 +6,7 @@ Responsive static corporate website for nuerAQOn.
 Build command: leave blank. Publish directory: `/` (repository root).
 
 ## Before public launch
-- Verify the contact email address in index.html (currently hello@nueraqon.com).
+- Confirm the public contact email address in index.html before launch.
 - Confirm legal company name, registered address and jurisdiction before publishing legal details.
 - Add a verified custom domain and update social preview metadata.
 - Add a privacy notice before collecting personal data.
